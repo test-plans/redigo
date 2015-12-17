@@ -11,4 +11,4 @@ go:
   - 1.5
   - tip
 
-build_image: drydock/u12gopls:tip
+build_image: drydock/u12golpls:tip
